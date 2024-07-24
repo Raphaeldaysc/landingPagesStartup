@@ -1,6 +1,6 @@
 # NextGenTech - Landing Page Startup
 
-![NextGenTech]
+[NextGenTech]
 
 ## Descrição
 
@@ -12,7 +12,6 @@ Este projeto é uma Landing Page para a startup NextGenTech. A página foi desen
 - CSS3
 - Flexbox
 - Grid
-- [Outras tecnologias, se aplicável]
 
 ## Estrutura do Projeto
 
