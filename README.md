@@ -24,6 +24,4 @@ O projeto é composto por várias seções, incluindo:
 
 ## Como Executar o Projeto
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/<USERNAME>/<REPOSITORY>.git
+1. Clone este repositório
